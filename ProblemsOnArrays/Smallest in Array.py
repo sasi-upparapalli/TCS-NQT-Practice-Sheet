@@ -5,7 +5,7 @@ print("Smallest element is:",a[0])
 Output:
 Smallest element is:2
 '''
-
+ print(min(a))
 
 numbers = [5, 2, 8, 1, 7]
 if not numbers:
